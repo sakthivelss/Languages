@@ -1,0 +1,1 @@
+length' ns = sum [1|_<-ns]
